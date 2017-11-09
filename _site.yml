@@ -4,6 +4,13 @@ output_dir: "docs"
 output:  
   html_document:  
     self_contained: no  
-    theme: flatly  
-navbar:  
-  title: "My First Webpage"  
+    theme: readable
+navbar:
+  title: "Profskills"
+  right:
+    - text: Publications
+      href: publications.html
+    - text: Posters
+      href: publications.html#posters
+    - text: GitHub
+      href: https://github.com/Desislava-Arabadzhiyska  

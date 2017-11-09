@@ -2,21 +2,22 @@
 title: "Desislava Arabadzhiyska Webpage"
 output: html_document
 ---
-
-I am a postgraduate student in the University of Glasgow's
+<img src = "images/Dessi.jpg" 
+style = "width: 15%; 
+float: right;
+padding-left: 10px;"> I am a postgraduate student in the University of Glasgow's
 [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/).
 I work with [Dr. Christoph Scheepers](https://www.researchgate.net/profile/Christoph_Scheepers)
 
 
 
-![Desislava Arabadzhiyska](images/Dessi.jpg)
- \vspace{12pt}
+\vspace{12pt}
  
   \vspace{12pt}
 
 ## EDUCATION:
 ###MSc, Research Methods of Psychological Science University of Glasgow (Present)
-Researching how factors such as familiarity and emoticon use affect accuracy and affective processing in irony by using a mixture of behavioural and eye-tracking methods. The project is supervised by Dr. Christoph Scheepers.
+I am currently researching how factors such as familiarity and emoticon use affect accuracy and affective processing in irony by using a mixture of behavioural and eye-tracking methods. The project is supervised by Dr. Christoph Scheepers.
 
 ###MA, Psychology (First Class) University of Glasgow (2017)
 Dissertation investigating the differential processing of positively and negatively framed ironic utterances using a reading time experiment. The project was supervised by Dr. Christoph Scheepers.
@@ -25,4 +26,3 @@ Dissertation investigating the differential processing of positively and negativ
 ###Research Intern for Second Language Processing Eye-Tracking Experiment (2017)
 Assisted a PhD candidate with the examination of pupil dilation in response to emotional words in non-native English speakers. Determined eye-dominance, adjusted head-mounted eye-tracker and administered paper-based and online questionnaires.
 
-[Here](https://uk.linkedin.com/in/desislava-arabadzhiyska-34244a107) is my linkedIn webpage!
