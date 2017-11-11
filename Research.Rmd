@@ -1,0 +1,89 @@
+---
+title: "Research"
+
+output:  
+  html_document:
+    toc: true
+    toc_float: true
+      
+---
+<br>
+
+# Research Experience
+
+<br>
+
+
+## Research Intern for Communication Projects (Present)
+
+* Assists final year undergraduate students with dissertation projects
+* Held sessions to teach students to use desk-mounted eye-tracker
+* Assisted with development of research projects
+
+<br>
+<br>
+
+## Research Intern for Second Language Processing Eye-Tracking Experiment
+
+*	Ran participants for eye-tracking sessions
+*	Administered paper-based and online questionnaires
+*	Used Eye-Link II for testing
+
+<br>
+<br>
+
+## Research Intern for Neuroscience of Decision Making Experiment
+
+*	Created instructions form
+*	Suggested, created and analysed online questionnaire
+*	Ran participants for behavioural and fMRI sessions
+*	Used Matlab and Presentation for analysis and testing
+*	Investigated related literature for Literature Review
+
+<br>
+<br>
+
+## Research Intern for Quantifier Processing Experiment
+
+*	Created stimuli
+*	Ran norming online questionnaires
+*	Analysed data from online questionnaires
+
+<br>
+
+#Skills
+
+<br>
+
+##SPSS
+Developed competencies in handling, analysing and visualising various types of datasets during the first two years of undergraduate course.
+
+<br>
+<br>
+
+##R
+Developed skills in data-wrangling, programming and analysis using general linear model regressions during the final two years of undergraduate course and during MSc course. 
+
+<br>
+<br>
+
+##E-Prime
+Edited and ran experiments for projects in the final two years of undergraduate course.
+
+<br>
+<br>
+
+##DMDX
+Created script for MSc project.
+
+<br>
+<br>
+
+##Eye-Link II
+Adjusted and calibrated head-mounted and desk-mounted eye-trackers as part of two separate internships. Taught students to use desk-mounted eye-tracker.
+
+<br>
+<br>
+
+##Qualtrics, Survey Monkey, Google Forms
+Created and ran online questionnaires for several projects and analysed produced data.

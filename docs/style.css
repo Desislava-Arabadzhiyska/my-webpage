@@ -1,1 +1,24 @@
-body {color: red;}
+body {
+  
+  padding-left: 40px;
+  padding-right: 40px;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  font-style: bold;
+  font-size: 1.5em;
+}
+
+h2 {
+
+  font-style: italic;
+  font-size: 1em;
+  color: gray;
+ 
+}
+
+ul {
+  text-align: left;
+}

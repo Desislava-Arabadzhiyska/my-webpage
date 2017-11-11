@@ -2,27 +2,25 @@
 title: "Desislava Arabadzhiyska Webpage"
 output: html_document
 ---
-<img src = "images/Dessi.jpg" 
-style = "width: 15%; 
-float: right;
-padding-left: 10px;"> I am a postgraduate student in the University of Glasgow's
+<br>
+<center>![Desislava Arabadzhiyska](images/Dessy.jpg)</center>
+
+<br>
+
+I am a postgraduate student in the University of Glasgow's
 [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/).
 I work with [Dr. Christoph Scheepers](https://www.researchgate.net/profile/Christoph_Scheepers)
 
+  
+#Research interest:
+My current research interest lies within the investigation of higher level language processing (semantics and pragmatics). Mainly, I am interested in how people create meaning when faced with ambiguous stimuli such as irony. My current project tries to uncover the processes by which people decide whether a written sentence is meant to be understood literally or ironically.
 
-
-\vspace{12pt}
- 
-  \vspace{12pt}
-
-## EDUCATION:
-###MSc, Research Methods of Psychological Science University of Glasgow (Present)
+# Education:
+##MSc, Research Methods of Psychological Science, University of Glasgow (Present)
 I am currently researching how factors such as familiarity and emoticon use affect accuracy and affective processing in irony by using a mixture of behavioural and eye-tracking methods. The project is supervised by Dr. Christoph Scheepers.
 
-###MA, Psychology (First Class) University of Glasgow (2017)
-Dissertation investigating the differential processing of positively and negatively framed ironic utterances using a reading time experiment. The project was supervised by Dr. Christoph Scheepers.
+##MA, Psychology (First Class), University of Glasgow (2017)
+My dissertation project investigated the differential processing of positively and negatively framed ironic utterances using a reading time experiment. The project was supervised by Dr. Christoph Scheepers.
 
-##RESEARCH EXPERIENCE:
-###Research Intern for Second Language Processing Eye-Tracking Experiment (2017)
-Assisted a PhD candidate with the examination of pupil dilation in response to emotional words in non-native English speakers. Determined eye-dominance, adjusted head-mounted eye-tracker and administered paper-based and online questionnaires.
+
 
