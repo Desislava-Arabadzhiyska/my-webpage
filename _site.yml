@@ -11,7 +11,5 @@ navbar:
   right:
     - text: Research
       href: Research.html
-    - text: Technical Skills
-      href: Research.html#skills
     - text: Contacts
       href: Contacts.html
